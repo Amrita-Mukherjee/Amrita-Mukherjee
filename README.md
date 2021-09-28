@@ -20,8 +20,8 @@
 <p align="center">
   <b>
 Hello, I'm Amrita Mukherjee, a <b>junior year</b> undergraduate in Computer Science from <a href="https://www.modyuniversity.ac.in/"><b>Mody University of Science & Technology</b>, Rajasthan</a>. <br>
-    A budding <b>Android and Web Developer</b> and a <b>UI/UX esigner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of constantly<b>improving</b>and wants a <b>platform</b> to 
+    A budding <b>Android and Web Developer</b> and a <b>UI/UX Designer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of constantly<b>improving </b>and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </b>
